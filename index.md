@@ -1,4 +1,4 @@
-#SPINNER
+##SPINNER
 Spinner allows you to select an item from a _drop down_ menu.
 Android spinner is like the drop down menu with multiple values from which the end user can select only one value.
 Android spinner is associated with **AdapterView**. So you need to use one of the **adapter classes** with spinner.
