@@ -5,9 +5,11 @@ Android spinner is associated with **AdapterView**. So you need to use one of th
 Android Spinner class is the subclass of AsbSpinner class.
 
 ### For Example
- <img src= "http://www.broculos.net/2013/09/how-to-change-spinner-text-size-color.html">
+ <img src= "http://3.bp.blogspot.com/-d1pt2GTOZ-I/UjxbCVF-rlI/AAAAAAABGPc/Ed43IyMjGSo/s1600/android-spinner-style-01.PNG">
  
  ###### you might have seen this in gmail app
- <img src= "https://www.tutorialspoint.com/android/android_spinner_control.htm">
+ <img src= "https://www.tutorialspoint.com/android/images/spinner11.jpg">
+ 
+ 
  
  
