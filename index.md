@@ -96,6 +96,6 @@ AdapterView.OnItemSelectedListener {
 ```
 ## OUTPUT 
 
-<img src="https://www.javatpoint.com/images/androidimages/spinneroutput1.png">
+<img src="https://www.javatpoint.com/images/androidimages/spinneroutput1.png"> <img src="https://www.javatpoint.com/images/androidimages/spinneroutput2.png"> <img src="https://www.javatpoint.com/images/androidimages/spinneroutput3.png">
  
  
