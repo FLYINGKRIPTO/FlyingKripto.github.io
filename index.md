@@ -94,7 +94,8 @@ AdapterView.OnItemSelectedListener {
     }  
 }  
 ```
+## OUTPUT 
 
-
+<img src="https://www.javatpoint.com/images/androidimages/spinneroutput1.png">
  
  
