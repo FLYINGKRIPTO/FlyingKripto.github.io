@@ -16,6 +16,10 @@ Android Spinner class is the subclass of AsbSpinner class.
  
  #### In this example, we are going to display the country list. You need to use **ArrayAdapter** class to store the country list.
  
- 
+### _Activity_main.xml_ 
+
+Drag the Spinner from the pallete, now the activity_main.xml file will like this:
+
+File: activity_main.xml
  
  
