@@ -8,9 +8,11 @@ Android Spinner class is the subclass of AsbSpinner class.
 
  <img src= "http://3.bp.blogspot.com/-d1pt2GTOZ-I/UjxbCVF-rlI/AAAAAAABGPc/Ed43IyMjGSo/s1600/android-spinner-style-01.PNG">
  
- ##### you might have seen this in gmail app
+ ##### You might have seen this spinner in gmail app
  
  <img src= "https://www.tutorialspoint.com/android/images/spinner11.jpg">
+ 
+ ## Let's understand Spinners with the help of an example
  
  
  
