@@ -12,7 +12,9 @@ Android Spinner class is the subclass of AsbSpinner class.
  
  <img src= "https://www.tutorialspoint.com/android/images/spinner11.jpg">
  
- ## Let's understand Spinners with the help of an example
+ ## Let's understand Spinners with the help of an example :-
+ 
+ #### In this example, we are going to display the country list. You need to use **ArrayAdapter** class to store the country list.
  
  
  
